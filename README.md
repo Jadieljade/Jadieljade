@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jadieljade
 - 👀 I’m interested in machine learning and AI
-- 🌱 I’m currently learning how to code with python
 - 💞️ I’m looking to collaborate on anything that might push my experience and knowledge to a higher level
 - 📫 How to reach me: email me njugunajadenade@gmail.com
 
