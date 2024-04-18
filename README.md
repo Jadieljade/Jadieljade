@@ -4,7 +4,7 @@
 <h3 align="center">I build real-world ML products. And then help you do the same ! I also write blogs about data science and machine learning.</h3>
 
 
-````js
+````python
 class Developer:
     def __init__(self, name):
         self.name = name
