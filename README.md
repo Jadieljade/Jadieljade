@@ -5,13 +5,28 @@
 
 
 ````js
-const name = 'Jadiel';
+class Developer:
+    def __init__(self, name):
+        self.name = name
+        self.coding = True
+    
+    def is_coding(self):
+        return self.coding
+    
+    def listen_to_music(self):
+        print(f"{self.name} is listening to music.")
+    
+    def open_stack_overflow(self):
+        print(f"{self.name} is browsing Stack Overflow.")
+    
+    def drink_coffee(self):
+        print(f"{self.name} is drinking coffee.")
 
-Developer dev = new Developer(name);
+name = 'Jadiel'
+dev = Developer(name)
 
-while(dev.isCoding())
-{
-  dev.listenToMusic();
-  dev.openStackOverFlow();
-  dev.drinkCoffee();
-}
+while dev.is_coding():
+    dev.listen_to_music()
+    dev.open_stack_overflow()
+    dev.drink_coffee()
+
